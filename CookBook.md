@@ -12,7 +12,4 @@ This code book summarizes the resulting data fields in `tidy.txt`.
   - STANDING
   - LAYING
 
-
-## Extracts only the measurements on the 
-
 * `all others coloums` : mean and standard deviation for each measurement (from 561-feature vector with time and frequency domain variables)
